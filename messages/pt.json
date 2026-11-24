@@ -1,0 +1,195 @@
+{
+  "Lab": {
+    "eyebrow": "Internacionalização",
+    "title": "growCo. em qualquer idioma.",
+    "description": "A experiência pode mudar de idioma sem alterar a identidade da marca.",
+    "language": "Idioma",
+    "portuguese": "Português",
+    "english": "Inglês",
+    "cta": "Começar gratuitamente"
+  },
+  "Showcase": {
+    "navigation": {
+      "product": "Produto",
+      "demo": "Demo",
+      "pricing": "Planos",
+      "app": "App",
+      "cta": "Conhecer growCo.",
+      "soundOn": "Som ligado",
+      "soundOff": "Som desligado"
+    },
+    "foundation": {
+      "eyebrow": "growCo. Showcase",
+      "status": "Production foundation",
+      "title": "A experiência começa aqui.",
+      "description": "A fundação pública da growCo. está pronta. A partir daqui, cada cena será construída para permanecer na experiência final.",
+      "productTitle": "Produto",
+      "productDescription": "Uma visão integrada da operação.",
+      "demoTitle": "Demo",
+      "demoDescription": "Uma experiência interativa do sistema.",
+      "pricingTitle": "Planos",
+      "pricingDescription": "Estrutura clara para diferentes estágios de crescimento."
+    },
+    "backToLanding": {
+      "label": "Voltar para a growCo.",
+      "aria": "Voltar para a página inicial da growCo."
+    },
+    "footer": {
+      "headlineBefore": "Seu negócio,",
+      "headlineAccent": "conectado.",
+      "description": "Leve a clareza da operação para o bolso e acompanhe tudo em tempo real pelo app da growCo.",
+      "navigateTitle": "Navegar",
+      "linkProduct": "Produto",
+      "linkTop": "Início da experiência",
+      "linkLanding": "Site da growCo.",
+      "rights": "Todos os direitos reservados.",
+      "backToTop": "Voltar ao topo",
+      "app": {
+        "eyebrow": "APP",
+        "title": "Leve a growCo. com você",
+        "description": "Escaneie o QR code para abrir o app.",
+        "cta": "Abrir o app",
+        "qrAlt": "QR code para abrir o app da growCo.",
+        "qrPlaceholder": "Espaço reservado para o QR code do app da growCo."
+      }
+    },
+    "chaos": {
+      "moving": "Sua empresa está em movimento.",
+      "everySecond": "A cada segundo.",
+      "tooMuch": "DADOS DEMAIS.",
+      "notEnough": "CLAREZA DE MENOS.",
+      "question": "E se tudo estivesse conectado?",
+      "items": {
+        "sale": "Venda",
+        "stock": "Estoque",
+        "message": "Mensagem",
+        "spreadsheet": "Planilha",
+        "goal": "Meta",
+        "invoice": "Vencimento",
+        "employee": "Equipe",
+        "report": "Relatório",
+        "payment": "Pagamento",
+        "order": "Pedido",
+        "cashflow": "Receita",
+        "schedule": "Agenda"
+      },
+      "micro": {
+        "pending": "PENDENTE",
+        "updated": "ATUALIZADO",
+        "error": "ERRO",
+        "today": "HOJE",
+        "pix": "PIX",
+        "invoice": "BOLETO",
+        "goal": "META",
+        "messages": "NOVAS MENSAGENS",
+        "stockLow": "ESTOQUE BAIXO",
+        "sale": "VENDA",
+        "order": "PEDIDO",
+        "report": "RELATÓRIO",
+        "approved": "APROVADO",
+        "processing": "PROCESSANDO",
+        "late": "ATRASADO",
+        "sync": "SINCRONIZANDO",
+        "cash": "CAIXA",
+        "employee": "FUNCIONÁRIO",
+        "alert": "ALERTA",
+        "new": "NOVO"
+      },
+      "hotTopics": {
+        "finance": {
+          "eyebrow": "FINANCEIRO",
+          "title": "Fluxo desconectado",
+          "detail": "Entradas e saídas não reagem juntas"
+        },
+        "stock": {
+          "eyebrow": "OPERAÇÃO",
+          "title": "Estoque sem contexto",
+          "detail": "A mudança acontece antes da informação"
+        },
+        "communication": {
+          "eyebrow": "COMUNICAÇÃO",
+          "title": "Informação dispersa",
+          "detail": "Decisões se perdem entre canais"
+        },
+        "management": {
+          "eyebrow": "GESTÃO",
+          "title": "Visão fragmentada",
+          "detail": "Os relatórios chegam depois do problema"
+        },
+        "goals": {
+          "eyebrow": "METAS",
+          "title": "Progresso sem reação",
+          "detail": "O número muda. A operação não responde."
+        },
+        "people": {
+          "eyebrow": "PESSOAS",
+          "title": "Equipe fora do fluxo",
+          "detail": "Ações isoladas do restante da operação"
+        }
+      },
+      "brand": {
+        "tagline": "Do caos operacional à clareza em tempo real."
+      },
+      "narrative": {
+        "signal": {
+          "eyebrow": "01 — MOVIMENTO",
+          "before": "SUA EMPRESA",
+          "accent": "NÃO PARA.",
+          "detail": "Vendas, mensagens, estoque, pessoas e metas mudam o tempo todo."
+        },
+        "fragmentation": {
+          "eyebrow": "02 — FRAGMENTAÇÃO",
+          "before": "CADA ÁREA REAGE",
+          "accent": "SOZINHA.",
+          "detail": "A operação continua, mas as partes deixam de responder umas às outras."
+        },
+        "reaction": {
+          "eyebrow": "03 — EFEITO EM CADEIA",
+          "before": "O PROBLEMA NÃO FICA",
+          "accent": "ONDE COMEÇOU.",
+          "detail": "Uma mudança local atravessa vendas, estoque, financeiro, metas e equipe."
+        },
+        "noise": {
+          "eyebrow": "04 — SOBRECARGA",
+          "before": "QUANTO MAIS SINAIS,",
+          "accent": "MENOS CONTEXTO.",
+          "detail": "A informação existe. O difícil é enxergar o que está conectado ao que."
+        },
+        "disconnect": {
+          "eyebrow": "05 — O PROBLEMA REAL",
+          "before": "NÃO FALTAM DADOS.",
+          "accent": "FALTA CONEXÃO.",
+          "detail": "Quando os sistemas não conversam, a decisão chega depois do impacto."
+        }
+      }
+    },
+    "control": {
+      "question": "E se tudo estivesse conectado?",
+      "organizing": "A informação encontra seu lugar.",
+      "onePlace": "UM SÓ LUGAR.",
+      "connected": "Tudo conectado.",
+      "modules": {
+        "sales": "Vendas",
+        "stock": "Estoque",
+        "finance": "Financeiro",
+        "people": "Pessoas",
+        "goals": "Metas",
+        "reports": "Relatórios"
+      },
+      "items": {
+        "sale": "Venda",
+        "stock": "Estoque",
+        "payment": "Pagamento",
+        "message": "Mensagem",
+        "goal": "Meta",
+        "report": "Relatório",
+        "spreadsheet": "Planilha",
+        "employee": "Equipe",
+        "order": "Pedido",
+        "cashflow": "Receita",
+        "invoice": "Vencimento",
+        "schedule": "Agenda"
+      }
+    }
+  }
+}

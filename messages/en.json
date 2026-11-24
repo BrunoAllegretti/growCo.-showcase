@@ -1,0 +1,195 @@
+{
+  "Lab": {
+    "eyebrow": "Internationalization",
+    "title": "growCo. in any language.",
+    "description": "The experience can change languages without changing the brand identity.",
+    "language": "Language",
+    "portuguese": "Portuguese",
+    "english": "English",
+    "cta": "Start for free"
+  },
+  "Showcase": {
+    "navigation": {
+      "product": "Product",
+      "demo": "Demo",
+      "pricing": "Pricing",
+      "app": "App",
+      "cta": "Get growCo.",
+      "soundOn": "Sound on",
+      "soundOff": "Sound off"
+    },
+    "foundation": {
+      "eyebrow": "growCo. Showcase",
+      "status": "Production foundation",
+      "title": "The experience starts here.",
+      "description": "The public growCo. foundation is ready. From this point forward, every scene will be built to remain in the final experience.",
+      "productTitle": "Product",
+      "productDescription": "An integrated view of the operation.",
+      "demoTitle": "Demo",
+      "demoDescription": "An interactive experience of the system.",
+      "pricingTitle": "Pricing",
+      "pricingDescription": "A clear structure for different stages of growth."
+    },
+    "backToLanding": {
+      "label": "Back to growCo.",
+      "aria": "Back to the growCo. home page"
+    },
+    "footer": {
+      "headlineBefore": "Your business,",
+      "headlineAccent": "connected.",
+      "description": "Take operational clarity with you and follow everything in real time through the growCo. app.",
+      "navigateTitle": "Navigate",
+      "linkProduct": "Product",
+      "linkTop": "Start of the experience",
+      "linkLanding": "growCo. website",
+      "rights": "All rights reserved.",
+      "backToTop": "Back to top",
+      "app": {
+        "eyebrow": "APP",
+        "title": "Take growCo. with you",
+        "description": "Scan the QR code to open the app.",
+        "cta": "Open the app",
+        "qrAlt": "QR code to open the growCo. app",
+        "qrPlaceholder": "Placeholder for the growCo. app QR code"
+      }
+    },
+    "chaos": {
+      "moving": "Your business is moving.",
+      "everySecond": "Every second.",
+      "tooMuch": "TOO MUCH DATA.",
+      "notEnough": "NOT ENOUGH CLARITY.",
+      "question": "What if everything was connected?",
+      "items": {
+        "sale": "Sale",
+        "stock": "Stock",
+        "message": "Message",
+        "spreadsheet": "Spreadsheet",
+        "goal": "Goal",
+        "invoice": "Due date",
+        "employee": "Team",
+        "report": "Report",
+        "payment": "Payment",
+        "order": "Order",
+        "cashflow": "Revenue",
+        "schedule": "Schedule"
+      },
+      "micro": {
+        "pending": "PENDING",
+        "updated": "UPDATED",
+        "error": "ERROR",
+        "today": "TODAY",
+        "pix": "PIX",
+        "invoice": "INVOICE",
+        "goal": "GOAL",
+        "messages": "NEW MESSAGES",
+        "stockLow": "LOW STOCK",
+        "sale": "SALE",
+        "order": "ORDER",
+        "report": "REPORT",
+        "approved": "APPROVED",
+        "processing": "PROCESSING",
+        "late": "OVERDUE",
+        "sync": "SYNCING",
+        "cash": "CASH",
+        "employee": "EMPLOYEE",
+        "alert": "ALERT",
+        "new": "NEW"
+      },
+      "hotTopics": {
+        "finance": {
+          "eyebrow": "FINANCE",
+          "title": "Disconnected flow",
+          "detail": "Money in and out fails to react together"
+        },
+        "stock": {
+          "eyebrow": "OPERATIONS",
+          "title": "Inventory without context",
+          "detail": "Change happens before information arrives"
+        },
+        "communication": {
+          "eyebrow": "COMMUNICATION",
+          "title": "Scattered information",
+          "detail": "Decisions get lost between channels"
+        },
+        "management": {
+          "eyebrow": "MANAGEMENT",
+          "title": "Fragmented visibility",
+          "detail": "Reports arrive after the problem"
+        },
+        "goals": {
+          "eyebrow": "GOALS",
+          "title": "Progress without reaction",
+          "detail": "The number changes. Operations do not."
+        },
+        "people": {
+          "eyebrow": "PEOPLE",
+          "title": "Teams outside the flow",
+          "detail": "Actions remain isolated from operations"
+        }
+      },
+      "brand": {
+        "tagline": "From operational chaos to real-time clarity."
+      },
+      "narrative": {
+        "signal": {
+          "eyebrow": "01 — MOTION",
+          "before": "YOUR BUSINESS",
+          "accent": "NEVER STOPS.",
+          "detail": "Sales, messages, inventory, people and goals keep changing."
+        },
+        "fragmentation": {
+          "eyebrow": "02 — FRAGMENTATION",
+          "before": "EVERY AREA REACTS",
+          "accent": "ON ITS OWN.",
+          "detail": "Operations keep moving, but the parts stop responding to one another."
+        },
+        "reaction": {
+          "eyebrow": "03 — CHAIN REACTION",
+          "before": "THE PROBLEM DOESN'T STAY",
+          "accent": "WHERE IT STARTED.",
+          "detail": "A local change spreads across sales, inventory, finance, goals and teams."
+        },
+        "noise": {
+          "eyebrow": "04 — OVERLOAD",
+          "before": "MORE SIGNALS.",
+          "accent": "LESS CONTEXT.",
+          "detail": "The information exists. The challenge is seeing what is connected to what."
+        },
+        "disconnect": {
+          "eyebrow": "05 — THE REAL PROBLEM",
+          "before": "DATA ISN'T MISSING.",
+          "accent": "CONNECTION IS.",
+          "detail": "When systems do not communicate, decisions arrive after the impact."
+        }
+      }
+    },
+    "control": {
+      "question": "What if everything was connected?",
+      "organizing": "Information finds its place.",
+      "onePlace": "ONE PLACE.",
+      "connected": "Everything connected.",
+      "modules": {
+        "sales": "Sales",
+        "stock": "Stock",
+        "finance": "Finance",
+        "people": "People",
+        "goals": "Goals",
+        "reports": "Reports"
+      },
+      "items": {
+        "sale": "Sale",
+        "stock": "Stock",
+        "payment": "Payment",
+        "message": "Message",
+        "goal": "Goal",
+        "report": "Report",
+        "spreadsheet": "Spreadsheet",
+        "employee": "Team",
+        "order": "Order",
+        "cashflow": "Revenue",
+        "invoice": "Due date",
+        "schedule": "Schedule"
+      }
+    }
+  }
+}
